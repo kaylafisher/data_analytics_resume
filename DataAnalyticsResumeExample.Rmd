@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Kayla Fisher resume"
+author: Kayla Fisher
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,27 +20,25 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-envelope"></i>kayla.fisher@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kaylafisher/](https://github.com/kylemonahan/)
 - <i class="fa fa-phone"></i> +1 123-456-7891
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
+- Very organized
 
-- List your **key skills**, linked to the job description.
+- Communicates well with others
 
-- Performing **data analysis**, with a focus on engineering models
+- Team player
 
-- Experienced in **data communication** and client relations
+- Biomedical Engineering lab experience
 
-- Wrote production-level **R/Python/Stata/SQL** 
+- Math and science skills
 
-- **Machine Learning** on cloud platforms (AWS)
-
-
+- MATLAB and SolidWorks
 
 
 Disclaimer {#disclaimer}
@@ -55,10 +53,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Kayla Fisher {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Data Analytics student seeking masters degrees
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,80 +64,65 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation and Management
+MS Candidate in Biomedical Engineering
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
-### Undergraduate University
+### Union College
 
-B.A. in Finance
+B.S. in Biomedical Engineering
 
-Troy, NY 
+Schenectady, NY 
 
-2008--2012
+2016--2020
 
 
 
 Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Biomedical Engineering Capstone
 
-Tufts University
+Union College
 
-Medford, MA
+Schenectady, NY
 
-2014--2019
+2016--2020
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Developed an endoscopic bite block prototype 
+- Prototyped using SolidWorks and 3D printing
 
 
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### EM-253 Innovation and Tech Strategy 
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+2020--2021
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Using a patented LNP delivery system to treat neurological diseases.
+- Working wtih a team of graduate students and a Tufts researcher.
 <!--:::-->
 
 
 
-
-### Other project
-
-Tufts University
-
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
-
-
-
-Selected Presentations {data-icon=comment-alt}
+Work Experience {data-icon=comment-alt}
 --------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+### MilliporeSigma
 
-Medford, MA
+- graduate student intern
+- global strategic accounts division
 
-March 2019
+Burlington, MA
 
-
+2021
