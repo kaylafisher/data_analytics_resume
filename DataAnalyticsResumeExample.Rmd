@@ -1,0 +1,145 @@
+---
+title: "Kyle Monahan"
+author: Kyle M Monahan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Kyle Monahan {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2014--Current
+
+
+### Undergraduate University
+
+B.A. in Finance
+
+Troy, NY 
+
+2008--2012
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Tufts University
+
+Medford, MA
+
+2014--2019
+
+- Developed research questions 
+- Provided additional guidance for undergraduate mentors
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2016--2018
+
+<!--::: concise-->
+- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
+- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+<!--:::-->
+
+
+
+
+### Other project
+
+Tufts University
+
+Medford, MA
+
+2015 -- 2018
+
+- Evaluated 
+- Deployed
+- Managed 
+- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+March 2019
+
+
