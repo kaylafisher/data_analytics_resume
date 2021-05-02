@@ -107,5 +107,3 @@ MilliporeSigma
 Burlington, MA
 
 2021
-
-- Working with a team
