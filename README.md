@@ -49,6 +49,7 @@ Education {data-icon=graduation-cap data-concise=true}
 ### Tufts University
 
 MS Candidate in Innovation and Management
+MS Candidate in Biomedical Engineering
 
 Medford, MA
 
